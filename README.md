@@ -3,7 +3,7 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/tikeshshu">
+  <a href="https://www.linkedin.com/in/tikeshsahu/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:tikeshs201@gmail.com">

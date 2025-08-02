@@ -16,7 +16,7 @@
   <a href="https://tikeshsahu.vercel.app">
     <img src="https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://github.com/tikeshsahu?tab=repositories">
+  <a href="https://github.com/Tikesh-sahu-git?tab=repositories">
     <img src="https://img.shields.io/badge/-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects">
   </a>
 </div>
